@@ -1,0 +1,72 @@
+python
+pytorch
+tensorflow
+java
+sql
+aws
+docker
+nlp
+computer vision
+excel
+communication
+machine learning
+data analysis
+sql-server
+powerbi
+spark
+keras
+pandas
+numpy
+leadership
+hospitality
+hotel
+front desk
+front desk agent
+guest registration
+night audit
+revenue management
+reservation systems
+opera
+pbx
+pos
+point of sale
+inventory management
+food & beverage
+food handling
+food handler
+culinary arts
+cook
+sous chef
+banquet
+banquet staff
+customer service
+guest service
+guest service recovery
+reservation
+booking
+scheduling
+staffing
+training
+supervisor
+shift supervisor
+project management
+marketing
+data entry
+accounting
+financial transactions
+credit card processing
+audit
+osha
+hazcom
+cpr
+aed
+food safety
+sanitary
+supply ordering
+cost accounting
+hr
+performance evaluations
+sales
+hospitality management
+master of business administration
+
